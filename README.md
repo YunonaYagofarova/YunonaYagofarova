@@ -1,4 +1,4 @@
-Меня зовут Юнона. Я начинающий аналитик данных. 
+### Меня зовут Юнона. Я начинающий аналитик данных. 
 
 Здесь я буду хранить некоторые свои проекты и интересные кейсы
 
@@ -17,5 +17,15 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+За время обучения были выполнены и отработаны различные кейсы и выполнены практическиие задания, такие как: 
 
+<ul>
+  <li> Создание калькуляторов в Excel </li>
+  <li> Винтажныйи когортный анализы, расчет LT, LTV </li>
+  <li> Формирование презентаций Power Point </li>
+  <li> Изучение основ материматической статистики, АБ тестов, процесса аналитики и анализа метрик </li>
+  <li> Сложные запросы SQL, оконные функции </li>
+</ul>
+
+Подробнее о выполненных задачах можно посмотреть в "моих проектах"
 
